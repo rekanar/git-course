@@ -1,3 +1,5 @@
 Created a user service
 
 Process the data
+
+Create an avatar new feature
